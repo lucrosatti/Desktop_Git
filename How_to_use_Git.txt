@@ -5,3 +5,4 @@ Make changes to the file or files
 $ git status --> to check whether the file or files have being modofied
 $ git add [filename]
 $ git commit -m Give a title to the commit ecloding it in quotation marks
+Repeat make changes, git add and git commit until needed
