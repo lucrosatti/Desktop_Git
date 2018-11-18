@@ -2,3 +2,4 @@ HOW TO USE Git AND CONNECT WITH GitHub
 $ git init
 $ git status --> to check if files are tracked or not
 Make changes to the file or files
+$ git status --> to check whether the file or files have being modofied
