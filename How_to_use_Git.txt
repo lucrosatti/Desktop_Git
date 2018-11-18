@@ -1,1 +1,2 @@
 HOW TO USE Git AND CONNECT WITH GitHub
+$ git init
