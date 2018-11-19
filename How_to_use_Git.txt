@@ -8,3 +8,4 @@ $ git commit -m Give a title to the commit ecloding it in quotation marks
 Repeat make changes, git add and git commit until needed
 Go to GitHub website and choose New repository
 Make sure HTTPS tab is chosen
+Before HTTPS, give a name to the repository [suggestion: keep the same name of the directory where you are working]
