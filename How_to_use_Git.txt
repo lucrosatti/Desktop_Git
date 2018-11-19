@@ -11,3 +11,5 @@ Make sure HTTPS tab is chosen
 Before HTTPS, give a name to the repository [suggestion: keep the same name of the directory where you are working]
 Copy the command lins under the session ...or push an existing repository from command line: git remote... and git push -u origin master
 [To copy and paste use the right botton of the mouse
+Keep making changes, git add and git commit
+To save to GitHub repository use git push -u origin master
